@@ -1,0 +1,17 @@
+# Build output
+/zsuggest
+*.exe
+*.test
+*.out
+/dist/
+
+# Go
+/vendor/
+go.work
+go.work.sum
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
